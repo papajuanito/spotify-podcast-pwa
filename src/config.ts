@@ -1,0 +1,2 @@
+export const SPOTIFY_ACCESS_TOKEN =
+  'BQCjk-EmEgdUJa8Chx8i2e8FShLmmzon5rmltVqnsc6b-s39AUz2APb9WFk_yUZ_Ep7Xx-LmXyvOf5zCkSjzCib2uwxEj95GZPnxDNXbumb6jyGdq3IuFe0eLHrn5azijmPTM1kd7arAxsNqICL9W5nGNKphqG_TM1JX-81qQ0Vfhsg09mw2N4FCM_Qu_fxZwZlZ';
